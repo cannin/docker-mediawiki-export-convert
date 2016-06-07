@@ -1,7 +1,7 @@
 # Build Image
 
 ```
-docker build -t cannin/mediawiki-export-convert .
+docker build -t cannin/docker-mediawiki-export-convert .
 ```
 
 # Run image
