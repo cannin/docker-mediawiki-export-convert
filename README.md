@@ -11,7 +11,7 @@ docker run -i \
   --rm=TRUE \
   --name=m2m \
   -v HOST_PATH:/m2m \
-  -t cannin/mediawiki-export-convert \
+  -t cannin/docker-mediawiki-export-convert \
   /bin/bash  
 ```
 
